@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "name": "KeilC51",
+            "includePath": [
+                "${workspaceFolder}\\Devices\\STC\\Inc",
+                "${workspaceFolder}\\User\\Inc",
+                "D:/Keil_v5/C51/INC"
+            ],
+            "defines": [
+                "__C51__",
+                "__VSCODE_C51__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "intelliSenseMode": "${default}",
+            "compilerPath": "D:/Keil_v5/C51/BIN/C51.exe"
+        },
+        {
+            "name": "Target 1",
+            "includePath": [
+                "d:\\Users\\Lenovo\\Documents\\Workbench\\8051\\STC\\STC12C5A60S2\\Demo\\TestMCU\\Devices\\STC\\Inc",
+                "d:\\Users\\Lenovo\\Documents\\Workbench\\8051\\STC\\STC12C5A60S2\\Demo\\TestMCU\\User\\Inc",
+                "d:\\Users\\Lenovo\\Documents\\Workbench\\8051\\STC\\STC12C5A60S2\\Demo\\TestMCU",
+                "d:\\Users\\Lenovo\\Documents\\Workbench\\8051\\STC\\STC12C5A60S2\\Demo\\TestMCU\\User\\Src"
+            ],
+            "defines": [
+                "STAND8051",
+                "__C51__",
+                "__VSCODE_C51__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
